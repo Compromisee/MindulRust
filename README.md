@@ -1,0 +1,2 @@
+# MindulRust
+Rust focus tracker
